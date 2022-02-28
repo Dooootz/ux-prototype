@@ -1,8 +1,9 @@
 import React from 'react'
+import './BottomNav.module.css'
 
 const BottomNav = () => {
   return (
-    <div>BottomNav</div>
+    <div className='bottom-nav'>BottomNav</div>
   )
 }
 
