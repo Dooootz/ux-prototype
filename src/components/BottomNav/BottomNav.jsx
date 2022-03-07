@@ -1,5 +1,5 @@
 import React from 'react'
-import './BottomNav.module.css'
+
 
 const BottomNav = () => {
   return (
