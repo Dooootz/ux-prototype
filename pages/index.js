@@ -3,7 +3,7 @@
 // upon actuation, there will be an animation which renders the sign in form (opacity fade in & slide up )-- 
 
 import { BottomNav } from '../src/components';
-import TopNav from '../src/components/TopNav/TopNav';
+import { TopNav } from '../src/components';
 
 // once the user enters their details the entire page will fade out & redirect them to the next page (animated loading icon whilst page loads)
 // (registering new user ? take them to registration / account set up page : sign in )

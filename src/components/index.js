@@ -1,3 +1,5 @@
+import TopNav from "./TopNav/TopNav";
 import BottomNav from "./BottomNav/BottomNav";
 
-export { BottomNav };
+
+export { TopNav, BottomNav };
