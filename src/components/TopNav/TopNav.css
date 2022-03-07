@@ -1,4 +1,23 @@
+/* ======== TOP & BOTTOM NAVBARS ==========  */
 .top-nav {
-    color: blue;
-    font-size: 4rem;
+    background-color: var(--top-nav);
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 50;
+}
+.top-nav > .bi {
+    font-size: 2rem;
+}
+.bottom-nav {
+    background-color: var(--top-nav);
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    z-index: 50;
+}
+.bottom-nav-links {
+    font-size: 2rem;
 }
