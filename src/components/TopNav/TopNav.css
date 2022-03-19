@@ -1,7 +1,7 @@
 /* ======== TOP & BOTTOM NAVBARS ==========  */
 .top-nav {
     background-color: var(--grey);
-    height: 70px;
+    height: 200px;
     width: 100%;
     position: fixed;
     top: 0;
